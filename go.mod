@@ -1,4 +1,4 @@
-module gitlab.com/go-globals/super-conf
+module github.com/espitman/go-super-conf
 
 go 1.17
 
